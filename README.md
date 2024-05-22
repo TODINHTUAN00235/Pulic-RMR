@@ -2,3 +2,4 @@
 Add installation instructions
 Add usage example
 Add contributing guidelines
+Add license information
