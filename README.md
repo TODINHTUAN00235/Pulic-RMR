@@ -5,3 +5,4 @@ Add contributing guidelines
 Add license information
 Add contact information
 Add project goals
+Add technologies used
