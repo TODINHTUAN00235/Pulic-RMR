@@ -7,3 +7,4 @@ Add contact information
 Add project goals
 Add technologies used
 Add FAQ section
+Add troubleshooting tips
