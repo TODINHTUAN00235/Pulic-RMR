@@ -8,3 +8,4 @@ Add project goals
 Add technologies used
 Add FAQ section
 Add troubleshooting tips
+Add version history
