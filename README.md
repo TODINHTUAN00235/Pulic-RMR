@@ -10,3 +10,4 @@ Add FAQ section
 Add troubleshooting tips
 Add version history
 Add roadmap
+Add acknowledgements
