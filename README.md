@@ -11,3 +11,4 @@ Add troubleshooting tips
 Add version history
 Add roadmap
 Add acknowledgements
+Add build instructions
