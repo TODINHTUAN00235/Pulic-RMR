@@ -12,3 +12,4 @@ Add version history
 Add roadmap
 Add acknowledgements
 Add build instructions
+Add testing instructions
