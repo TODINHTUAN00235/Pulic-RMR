@@ -17,3 +17,4 @@ Add deployment instructions
 Add known issues
 Add future enhancements
 Add dependencies list
+Add contact for support
